@@ -1,0 +1,25 @@
+body{
+    font-family: "Roboto" , sans-serif;
+    background-color: rgb(250, 12, 210);
+}
+#tr{
+    font-size: small;
+}
+#sub{
+    text-align: left;
+}
+.function{
+    overflow: hidden;;
+}
+#image-left{
+    float: center;
+    width: 50%;
+    height: 100%;
+    margin-right:5%;
+}
+#image-right{
+    float: ;
+    width: 50%;
+    height: 100%;
+    margin-right:5%;
+}
